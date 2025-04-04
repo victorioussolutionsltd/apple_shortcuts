@@ -1,4 +1,4 @@
-# apple shorcuts
+# Apple shortcuts
 
 This repository contains useful shortcuts for Apple devices, which simplify and optimise user flows.
 
